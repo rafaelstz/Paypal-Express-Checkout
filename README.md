@@ -2,7 +2,7 @@
 
 Checkout page integrated with Paypal Express Checkout.
 
-**Live:** [http://paypalexpresscheckout.herokuapp.com](http://paypalexpresscheckout.herokuapp.com)
+**Live:** [paypalexpresscheckout.herokuapp.com](https://paypalexpresscheckout.herokuapp.com)
 
 ### Clone and run
 
